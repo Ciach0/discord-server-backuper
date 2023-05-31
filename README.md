@@ -29,7 +29,7 @@ Paste your token in .env
 TOKEN=<YOUR TOKEN HERE>
 ```
 
-Start the server
+Start the bot
 
 ```bash
   yarn start
